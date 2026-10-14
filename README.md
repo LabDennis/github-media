@@ -35,6 +35,17 @@ whole-word matching, optional wrap, counting and an undoable replacement preview
 
 ![The same search controls in light mode](cfgcraft/2026-10-14/search-options-light.png)
 
+### Conversion, comparison rules and open buffers
+
+Own application UI using synthetic text: text-only codecs, optional comparison rules,
+directional merge-all, and snapshot search across unsaved open buffers.
+
+![Text conversion commands](cfgcraft/2026-10-14/conversions.png)
+
+![Comparison rules and merge-all controls](cfgcraft/2026-10-14/compare-rules.png)
+
+![Search across open documents](cfgcraft/2026-10-14/open-buffer-search.png)
+
 Own screenshots and documentation are available under the MIT license in this repository.
 Dependency/font rights are not reassigned. No reference-product screenshots, proprietary
 assets, source archives, customer documents or internal work files are included.
