@@ -26,6 +26,15 @@ implemented features; they do not imply full Notepad++/WinMerge compatibility or
 
 ![Selection-aware text and line operations](cfgcraft/2026-10-14/text-tools.png)
 
+### Search and replace
+
+The original editor includes cursor-based next/previous navigation, case and Unicode
+whole-word matching, optional wrap, counting and an undoable replacement preview.
+
+![Search options and replacement preview in dark mode](cfgcraft/2026-10-14/search-options-dark.png)
+
+![The same search controls in light mode](cfgcraft/2026-10-14/search-options-light.png)
+
 Own screenshots and documentation are available under the MIT license in this repository.
 Dependency/font rights are not reassigned. No reference-product screenshots, proprietary
 assets, source archives, customer documents or internal work files are included.
