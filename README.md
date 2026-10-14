@@ -46,6 +46,13 @@ directional merge-all, and snapshot search across unsaved open buffers.
 
 ![Search across open documents](cfgcraft/2026-10-14/open-buffer-search.png)
 
+### Selection-scoped replacement
+
+Actual CfgCraft controls with synthetic documents. This image uses the test host's
+embedded fallback presentation; desktop tool windows normally have OS-native frames.
+
+![Only the captured selection is replaced](cfgcraft/2026-10-14/selection-scope.png)
+
 Own screenshots and documentation are available under the MIT license in this repository.
 Dependency/font rights are not reassigned. No reference-product screenshots, proprietary
 assets, source archives, customer documents or internal work files are included.
